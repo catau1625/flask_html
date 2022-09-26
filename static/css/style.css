@@ -1,0 +1,11 @@
+*{
+    padding: 1em;
+}
+.titulo{
+    color: violet;
+    text-align: center;
+}
+table{
+    margin-top: 1em;
+    text-align: center;
+}
